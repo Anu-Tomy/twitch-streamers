@@ -1,0 +1,33 @@
+body{
+	background: no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-color:#4a5e82;
+	color:white;	
+}
+#header{
+  background:rgba(0, 0, 0, 0.45);
+  border: 5px black solid;
+  border-radius:25px;
+  padding:5px;
+  margin-top: 20px;
+  margin-bottom:10px;
+}
+img{
+  width:100px;
+  height:100px;
+  border-radius:50%;
+}
+.col-md-4{
+  padding:10px; 
+}
+
+.row{
+  background: rgba(0,0,0,.45);
+  border: 5px black solid;
+  border-radius:25px;
+  margin-bottom:10px;
+}
+
